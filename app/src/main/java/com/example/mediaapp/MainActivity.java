@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private Button pause;
     private SeekBar seekBar;
     private MediaPlayer mediaPlayer;
-
+    //new comment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
